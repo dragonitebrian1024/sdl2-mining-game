@@ -38,3 +38,5 @@ shovel for digging dirt
 
 
 to eliminate the other player(for winning by yourself),just touch the back of them with the tip of your equipment but if both players touch tips then both lose 
+
+there is also a timer so you  have to eliminate them or mine all the blocks within the timer
