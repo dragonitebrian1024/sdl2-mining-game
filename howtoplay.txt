@@ -1,0 +1,40 @@
+so this game is where you can mine blocks and win with the other player or try to eliminate the other one 
+
+
+you need to move with(player1)wasd and (player2)up down left right arrows
+
+you will have to change equipment to mine different blocks with(player1)lftshift and (player2) rghtshift
+
+
+red for ruby(exclusive to player2)
+
+blue for diamond(exclusive to player1)
+
+brown for dirt
+
+yellow for gold
+
+light grey for stone
+
+dark grey for iron
+
+black for coal
+
+
+the equipments:
+black pickaxe for mining coal
+
+gold pickaxe for mining gold
+
+blue pickaxe(exclusive to player1) for mining diamonds
+
+red pickaxe(exclusive to player2) for mining ruby
+
+dark grey pickaxe for mining iron
+
+drill for drilling stone
+
+shovel for digging dirt 
+
+
+to eliminate the other player(for winning by yourself),just touch the back of them with the tip of your equipment but if both players touch tips then both lose 
